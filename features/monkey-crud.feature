@@ -46,7 +46,7 @@ Feature: I would like to edit monkey
   Examples:
     |old-monkey    |new-monkey  |new-weight|
     |capuchin      |proboscis   |25        |
-    |baboon        |spider      |9         |
+    |baboon        |squirrel    |2         |
 
 
   Scenario Outline: Delete records
@@ -65,6 +65,6 @@ Feature: I would like to edit monkey
   Examples:
     |monkey     |
     |proboscis  |
-    |spider     |
+    |squirrel   |
     |mandrill   |
 
