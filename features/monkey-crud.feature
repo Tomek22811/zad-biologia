@@ -46,7 +46,7 @@ Feature: I would like to edit monkey
   Examples:
     |old-monkey    |new-monkey  |new-weight|
     |capuchin      |proboscis   |25        |
-    |baboon        |spider      |9       |
+    |baboon        |spider      |9         |
 
 
   Scenario Outline: Delete records
